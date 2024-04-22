@@ -1,4 +1,4 @@
-O arquivo codigovulneravel.p exemplifica uma inserção e busca de daos de login e senha de usuários. Porém esses dados são transmitidos e gravados em texto limpo.
+O arquivo codigovulneravel.py exemplifica uma inserção e busca de dados de login e senha de usuários. Porém esses dados são transmitidos e gravados em texto limpo.
 
 O arquivo codigoSeguro.py realiza a criptografia antes de inserir a senha no banco de dados. Foi utilizado a função de hash SHA-256, para criar uma representação criptografada da senha. 
 
